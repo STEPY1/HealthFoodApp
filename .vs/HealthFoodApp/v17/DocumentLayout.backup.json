@@ -1,0 +1,97 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ACER\\source\\repos\\HealthFoodApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{647841FE-3209-4B99-850B-DE3400D080E8}|HealthFoodApp\\HealthFoodApp.csproj|c:\\users\\acer\\source\\repos\\healthfoodapp\\healthfoodapp\\views\\startorderpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{647841FE-3209-4B99-850B-DE3400D080E8}|HealthFoodApp\\HealthFoodApp.csproj|solutionrelative:healthfoodapp\\views\\startorderpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{647841FE-3209-4B99-850B-DE3400D080E8}|HealthFoodApp\\HealthFoodApp.csproj|c:\\users\\acer\\source\\repos\\healthfoodapp\\healthfoodapp\\views\\homepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{647841FE-3209-4B99-850B-DE3400D080E8}|HealthFoodApp\\HealthFoodApp.csproj|solutionrelative:healthfoodapp\\views\\homepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{647841FE-3209-4B99-850B-DE3400D080E8}|HealthFoodApp\\HealthFoodApp.csproj|c:\\users\\acer\\source\\repos\\healthfoodapp\\healthfoodapp\\services\\dataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{647841FE-3209-4B99-850B-DE3400D080E8}|HealthFoodApp\\HealthFoodApp.csproj|solutionrelative:healthfoodapp\\services\\dataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{647841FE-3209-4B99-850B-DE3400D080E8}|HealthFoodApp\\HealthFoodApp.csproj|c:\\users\\acer\\source\\repos\\healthfoodapp\\healthfoodapp\\resources\\styles\\colors.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{647841FE-3209-4B99-850B-DE3400D080E8}|HealthFoodApp\\HealthFoodApp.csproj|solutionrelative:healthfoodapp\\resources\\styles\\colors.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DataService.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\HealthFoodApp\\HealthFoodApp\\Services\\DataService.cs",
+              "RelativeDocumentMoniker": "HealthFoodApp\\Services\\DataService.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\HealthFoodApp\\HealthFoodApp\\Services\\DataService.cs",
+              "RelativeToolTip": "HealthFoodApp\\Services\\DataService.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAAAFQAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T09:33:26.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Colors.xaml",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\HealthFoodApp\\HealthFoodApp\\Resources\\Styles\\Colors.xaml",
+              "RelativeDocumentMoniker": "HealthFoodApp\\Resources\\Styles\\Colors.xaml",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\HealthFoodApp\\HealthFoodApp\\Resources\\Styles\\Colors.xaml",
+              "RelativeToolTip": "HealthFoodApp\\Resources\\Styles\\Colors.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-22T09:25:51.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StartOrderPage.xaml",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\HealthFoodApp\\HealthFoodApp\\Views\\StartOrderPage.xaml",
+              "RelativeDocumentMoniker": "HealthFoodApp\\Views\\StartOrderPage.xaml",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\HealthFoodApp\\HealthFoodApp\\Views\\StartOrderPage.xaml",
+              "RelativeToolTip": "HealthFoodApp\\Views\\StartOrderPage.xaml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABkAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-22T05:23:56.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomePage.xaml",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\HealthFoodApp\\HealthFoodApp\\Views\\HomePage.xaml",
+              "RelativeDocumentMoniker": "HealthFoodApp\\Views\\HomePage.xaml",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\HealthFoodApp\\HealthFoodApp\\Views\\HomePage.xaml",
+              "RelativeToolTip": "HealthFoodApp\\Views\\HomePage.xaml",
+              "ViewState": "AgIAANEAAAAAAAAAAAAAAN4AAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-22T10:01:28.111Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
